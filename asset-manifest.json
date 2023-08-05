@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/nabeel/static/css/main.abd64e84.css",
-    "main.js": "/nabeel/static/js/main.498579fa.js",
+    "main.js": "/nabeel/static/js/main.0b3ced81.js",
     "static/js/787.13b9018e.chunk.js": "/nabeel/static/js/787.13b9018e.chunk.js",
     "static/media/logo.svg": "/nabeel/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/nabeel/index.html",
     "main.abd64e84.css.map": "/nabeel/static/css/main.abd64e84.css.map",
-    "main.498579fa.js.map": "/nabeel/static/js/main.498579fa.js.map",
+    "main.0b3ced81.js.map": "/nabeel/static/js/main.0b3ced81.js.map",
     "787.13b9018e.chunk.js.map": "/nabeel/static/js/787.13b9018e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.498579fa.js"
+    "static/js/main.0b3ced81.js"
   ]
 }
